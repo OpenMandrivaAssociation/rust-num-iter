@@ -5,8 +5,8 @@
 %global crate num-iter
 
 Name:           rust-%{crate}
-Version:        0.1.40
-Release:        2%{?dist}
+Version:        0.1.46
+Release:        1%{?dist}
 Summary:        External iterators for generic mathematics
 
 # Upstream license specification: MIT/Apache-2.0
